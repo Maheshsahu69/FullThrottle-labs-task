@@ -1,0 +1,28 @@
+.user-detail-title{
+    padding: 15px 5px 5px 5px;
+}
+.user-detail-title{
+    margin: 10px 10px 10px 10px;
+    font-weight: bold;
+}
+.span-style{
+    font-weight:bold;
+    background-color: #777;
+    color: white;
+    display: block;
+    padding:5px;
+}
+.item-style{
+    margin:10px;
+    font-size:11px;
+    color:#777;
+    font-weight: bold;
+   
+}
+.span-style:hover{
+    background-color: #779;
+    color: white;
+    display: block;
+    padding:5px;
+    
+}
